@@ -36,7 +36,7 @@ The raw dataset is named `fifa21_raw_data.csv`.
 
 - Ensure you have the required Python libraries installed.
 - Place `fifa21_raw_data.csv` in the root directory.
-- Run the script `fifa_analysis.py` or execute cells in the notebook (if using Jupyter).
+- Run the script `fifa21_analysis.py` or execute cells in the notebook (if using Jupyter).
 
 ## Author
 
